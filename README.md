@@ -1,11 +1,15 @@
 # procedural-notes
 
-📚 Used a combination of **recursion and generative AI** to autonomously and procedurally create an entire mini-wikipedia notebook as a **`proof of concept`**.
+📚 Used a combination of **recursion and generative AI** to autonomously and procedurally create an entire mini-wikipedia notebook from a single prompt as a **`proof of concept`**.
+
+`Topic -> Generate topic tree -> generate a .md markdown file for each concept, interlinked`
 
 ## Concepts used: 
 **Recursion:** To traverse nested list of semantic topcis
 
-**Generative AI:** use of the OpenAI API to use a predefined engineered model, which is told to output .markdown files 
+**Generative AI:** use of the OpenAI API to use a predefined engineered model, which is told to output a library of .markdown files in your directory. 
+
+These fully formatted notepages can then be viewed in Obsidian, GitHub, or any markdown previewer. 
 
 Technically this could be applied to anything: 
 - Enter the overarching topic of the wikipedia page
@@ -13,6 +17,9 @@ Technically this could be applied to anything:
 - Specify directory
 - Preferences
   - Emojis
+- [ ] Add folder functionality
+- [ ] Better structure control
+- [ ] Create a GUI
  
 ## Example:
 A complete, interlinked, tagged, completely 'original' mini-wiki of Data Science concepts 
