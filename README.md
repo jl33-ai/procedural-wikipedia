@@ -2,7 +2,8 @@
 
 📚 Used a combination of **recursion and generative AI** to autonomously and procedurally create an entire mini-wikipedia notebook from a single prompt as a **`proof of concept`**.
 
-`Topic -> Generate topic tree -> generate a .md markdown file for each concept, interlinked`
+`Topic -> Generate topic tree -> generate a fully formed .md markdown file for each concept, interlinked`
+`💬->📕📗📘📙📗`
 
 # Concepts used: 
 **Recursion:** To traverse nested list of semantic topcis
