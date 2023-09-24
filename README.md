@@ -28,7 +28,11 @@ A complete, interlinked, tagged, completely 'original' mini-wiki of Data Science
 
 ![image](https://github.com/jl33-ai/procedural-notes/assets/127172022/fb177b14-ddff-4fdc-a5dc-f8ed210e579d)
 
-**`A complete example output for the concept 'Support Vector Machines:`**
+<img width="1401" alt="image" src="https://github.com/jl33-ai/procedural-notes/assets/127172022/eabfe643-a9fd-4217-83e6-85040c40173d">
+
+
+# Complete Example
+📃 **`A complete example output for the concept 'Support Vector Machines:`**
 
 # Support Vector Machines
 Created by @jl33-ai 👦🏻
